@@ -260,7 +260,7 @@ const Home = () => {
                 <div className="text-center hidden sm:block">
                   <div className="text-[16px] font-semibold">Samsung R&D</div>
                   <div className="text-[14px] font-normal leading-normal">
-                    June 2021 - June 2022
+                    Jun 2021 - Jun 2022
                   </div>
                 </div>
               </a>
@@ -295,22 +295,32 @@ const Home = () => {
                 <div className="sm:hidden w-[12px] h-[12px] bg-white rounded-full border-[2px] border-[black]"></div>
               </div>
               <div className="flex flex-col gap-20 sm:hidden">
-                <div className="text-center text-[#ffff] custom-fonts">
-                  <div className="text-[16px] font-semibold">
-                    Packet Fanatic
+                <a
+                  href="https://packetfanatic.com"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <div className="text-center text-[#ffff] custom-fonts">
+                    <div className="text-[16px] font-semibold">
+                      Packet Fanatic
+                    </div>
+                    <div className="text-[14px] font-normal leading-normal">
+                      Jan 2021 - Jun 2021
+                    </div>
                   </div>
-                  <div className="text-[14px] font-normal leading-normal">
-                    Jan 2021 - Jun 2021
+                </a>
+                <a
+                  href="https://www.samsungprism.com"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <div className="text-center text-[#ffff] custom-fonts">
+                    <div className="text-[16px] font-semibold">Samsung R&D</div>
+                    <div className="text-[14px] font-normal leading-normal">
+                      Jun 2021 - Jun 2022
+                    </div>
                   </div>
-                </div>
-                <div className="text-center text-[#ffff] custom-fonts">
-                  <div className="text-[16px] font-semibold">
-                    Packet Fanatic
-                  </div>
-                  <div className="text-[14px] font-normal leading-normal">
-                    Jan 2021 - Jun 2021
-                  </div>
-                </div>
+                </a>
               </div>
               <div className="block sm:hidden w-[4px] h-[380px] bg-white"></div>
               <div className="flex flex-col gap-96 absolute">
@@ -318,22 +328,22 @@ const Home = () => {
                 <div className="sm:hidden w-[12px] h-[12px] bg-white rounded-full border-[2px] border-[black]"></div>
               </div>
               <div className="flex flex-col gap-80 sm:hidden">
-                <div className="text-center text-[#ffff] custom-fonts">
-                  <div className="text-[16px] font-semibold">
-                    Packet Fanatic
+                <a href="https://zluri.com" target="_blank" rel="noreferrer">
+                  <div className="text-center text-[#ffff] custom-fonts">
+                    <div className="text-[16px] font-semibold">Zluri</div>
+                    <div className="text-[14px] font-normal leading-normal">
+                      Jul 2021 - Present
+                    </div>
                   </div>
-                  <div className="text-[14px] font-normal leading-normal">
-                    Jan 2021 - Jun 2021
+                </a>
+                <a href="https://codeclock.in" target="_blank" rel="noreferrer">
+                  <div className="text-center text-[#ffff] custom-fonts">
+                    <div className="text-[16px] font-semibold">Codeclock</div>
+                    <div className="text-[14px] font-normal leading-normal">
+                      Aug 2023 - Present
+                    </div>
                   </div>
-                </div>
-                <div className="text-center text-[#ffff] custom-fonts">
-                  <div className="text-[16px] font-semibold">
-                    Packet Fanatic
-                  </div>
-                  <div className="text-[14px] font-normal leading-normal">
-                    Jan 2021 - Jun 2021
-                  </div>
-                </div>
+                </a>
               </div>
             </div>
           </div>
