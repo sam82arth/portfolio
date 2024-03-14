@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter&family=Rubik+Glitch&display=swap');
+
+
+body {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.custom-tracking {
+    letter-spacing: 79px;
+}
+.custom-tracking-phone{
+    letter-spacing: 25.67px;
+}
+
+.custom-spacing {
+    letter-spacing: 12.8px;
+}
+
+.custom-spacing-top {
+    letter-spacing: 24.50px;
+}
+.custom-spacing-top-phone {
+    letter-spacing: 4.4px;
+}
+.custom-spacing-footer {
+    letter-spacing: 1.3px;
+}
+
+.custom-spacing-footer2 {
+    letter-spacing: 3.2px;
+}
+
+.custom-spacing-title {
+    letter-spacing: 2.4px;
+}
+
+.custom-fonts {
+    font-family: 'Inter', sans-serif;
+}
+.footer-font{
+    font-family: 'Bebas Neue', sans-serif;
+}
+.footer-spacing{
+    letter-spacing: 2.2px;
+}

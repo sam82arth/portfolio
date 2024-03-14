@@ -1,0 +1,44 @@
+@media (min-width:1285px){
+    .lin{
+        gap: 250px;
+    }
+}
+@media (min-width:1024px) and (max-width:1100px){
+    .intro{
+        letter-spacing: 50px !important;
+        padding: 0px !important;
+    }
+    .exp{
+        padding-left: 30px;
+        padding-right: 30px;
+        gap: 100px;
+    }
+.lin{
+    width: 250px !important;
+    gap: 198px ;
+}
+}
+@media (min-width:640px) and (max-width:1023px) {
+    .intro{
+        letter-spacing: 20px !important;
+        padding: 20px;
+        padding-left: 20px;
+    }
+    .about1{
+        padding-right: 30px;
+    }
+    .exp{
+        padding-left: 30px;
+padding-right: 30px;
+        gap: 160px !important;
+    }
+    .lin{
+        width:210px !important;
+    }
+    .tex h3{
+        text-align: center;
+    }
+    .vol{
+        
+    }
+  }
